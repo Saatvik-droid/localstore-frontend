@@ -1,0 +1,32 @@
+:root {
+  background-color: #0d0d0d;
+  color: wheat;
+}
+
+body {
+  padding: 10px;
+}
+
+header {
+  background-color: rgb(6, 81, 146);
+  padding: inherit;
+  text-align: center;
+}
+
+ul {
+  padding: 0px;
+  list-style: none;
+}
+
+a {
+  text-decoration: underline;
+  color: wheat;
+}
+
+ul li .material-icons {
+  font-size: 16px;
+}
+
+#main-container {
+}
+
